@@ -20,3 +20,13 @@ body{
     color: white;
     font-size: 2rem;
 }
+
+.header_logo{
+    padding-bottom: 1rem;
+}
+
+.badge{
+    background-color: yellow;
+    border: yellow 1px solid;
+    border-radius: 50%;
+}
